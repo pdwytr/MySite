@@ -1,0 +1,37 @@
+body {
+    
+        font: 85% georgia, sans-serif;
+        line-height: 1.88889;
+        color: #555753; 
+        background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
+        margin: 0; 
+        padding: 0;
+
+  }
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(85, 32, 136, 0.753);
+    font-variant: small-caps;
+  }
+
+  blockquote{
+      color: rgba(160, 88, 41, 0.795);
+  }
+  p {
+    color: rgb(72, 70, 145);
+    line-height: 140%;
+    text-align: left;
+    text-transform: initial;
+  }
+  site{
+    color: rgb(7, 0, 0);
+  }
+  #Name{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(36, 87, 163, 0.808);
+    font-variant: small-caps;
+  }
+  #Allah {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(24, 52, 94, 0.808);
+  }
